@@ -648,28 +648,28 @@
 	"ui_editor_properties_translucent" : "Прозрачный",
 	"ui_editor_properties_type" : "тип",
 	"ui_editor_properties_visible" : "Видимый",
-	"ui_editor_properties_water_normal" : "Water normal",
+	"ui_editor_properties_water_normal" : "Нормальная вода",
 	"ui_editor_properties_width" : "Ширина",
-	"ui_editor_properties_write_alpha" : "Write alpha",
+	"ui_editor_properties_write_alpha" : "Написать альфу",
 	
-	"ui_editor_particle_editor" : "Particle Editor",
-	"ui_editor_particle_selected" : "Selected:",
-	"ui_editor_particle_delete_particle_header" : "Delete Particle",
-	"ui_editor_particle_delete_particle_body" : "Are you sure you want to delete the particle system {{particle}}?",
-	"ui_editor_particle_duplicate_particle_header" : "Duplicate Particle",
-	"ui_editor_particle_duplicate_particle_body" : "Enter the name of the new particle system:",
-	"ui_editor_particle_new_particle_header" : "New Particle",
-	"ui_editor_particle_new_particle_body" : "Enter the name of the new particle system:",
-	"ui_editor_particle_add_element_emitter_header" : "Add Emitter",
-	"ui_editor_particle_add_element_emitter_body" : "Select an emitter that creates new particles.",
-	"ui_editor_particle_add_element_initializer_header" : "Add Initializer",
-	"ui_editor_particle_add_element_initializer_body" : "Select an initializer that is applied when a particle spawns.",
-	"ui_editor_particle_add_element_operator_header" : "Add Operator",
-	"ui_editor_particle_add_element_operator_body" : "Select an operator that simulates the particle over time.",
-	"ui_editor_particle_add_element_renderer_header" : "Add Renderer",
-	"ui_editor_particle_add_element_renderer_body" : "Select a renderer that controls the way particles are displayed.",
-	"ui_editor_particle_add_element_children_header" : "Add Child",
-	"ui_editor_particle_add_element_children_body" : "Select an existing particle system as a child.",
+	"ui_editor_particle_editor": "Редактор частицы",
+ 	"ui_editor_particle_selected": "Отобранный":
+	 "ui_editor_particle_delete_particle_header": "Удалите Частицу",
+	 "ui_editor_particle_delete_particle_body": "Ты уверен, что Вы хотите удалить систему частицы {{частица}}?",
+	 "ui_editor_particle_duplicate_particle_header": "Двойная Частица",
+	 "ui_editor_particle_duplicate_particle_body": "Введите имя новой системы частицы":
+	 "ui_editor_particle_new_particle_header": "Новая Частица",
+	 "ui_editor_particle_new_particle_body": "Введите имя новой системы частицы":
+	 "ui_editor_particle_add_element_emitter_header": "Добавьте Эмитента",
+	 "ui_editor_particle_add_element_emitter_body": "Выберите эмитента, который создает новые частицы".
+	 "ui_editor_particle_add_element_initializer_header": "Добавьте Инициализатор",
+	 "ui_editor_particle_add_element_initializer_body": "Выберите инициализатор, который применен, когда частица мечет икру".
+	 "ui_editor_particle_add_element_operator_header": "Добавьте Оператора",
+	 "ui_editor_particle_add_element_operator_body": "Выберите оператора, который моделирует частицу со временем".
+	 "ui_editor_particle_add_element_renderer_header": "Добавьте Renderer",
+	 "ui_editor_particle_add_element_renderer_body": "Выберите renderer, который управляет способом, которым показаны частицы".
+	 "ui_editor_particle_add_element_children_header": "Добавьте Ребенка",
+	 "ui_editor_particle_add_element_children_body": "Выберите существующую систему частицы как ребенка".
 	
 	"ui_editor_particle_element_group_general" : "General",
 	"ui_editor_particle_element_group_renderers" : "Renderers",
